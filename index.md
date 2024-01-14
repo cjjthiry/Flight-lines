@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: Airplane window pictures
 ---
 
-## Welcome everyone to my spiffy site!
+## I love to look out of airplane windows when I fly.  I love to take pictures when I do.
 
 
 #### Here are some example pages:
